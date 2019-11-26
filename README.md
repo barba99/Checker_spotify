@@ -1,5 +1,9 @@
 # Checker_spotify
 
+![Main_Image](https://developer.spotify.com/assets/branding-guidelines/logo@2x.png)
+
+## 
+
 # Instalación
 ```
 apt-get update
